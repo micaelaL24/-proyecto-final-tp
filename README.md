@@ -21,3 +21,7 @@ Este proyecto se basa en el famoso juego "Fireboy y Watergirl" pero una version 
 
 ## Estado Actual del Proyecto: 
 Configuracion inicial y estructura del proyecto.
+
+**Enlace a la Wiki del Proyecto (Propuesta Detallada):**
+[Ver la Propuesta Completa del Proyecto
+aquí](https://github.com/micaelaL24/-proyecto-final-tp/wiki)
