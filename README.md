@@ -56,7 +56,7 @@ Lwjgl3Launcher.java.
 
 Ejecuta la clase como una Java Application (Run As > Java Application o botón de ejecución del IDE).
 
-Si todo está correctamente configurado, deberías ver la pantalla de ejemplo correspondiente a la plantilla seleccionada (o la imagen por defecto de LibGDX).
+Si todo está correctamente configurado, deberías ver la pantalla del juego y listo, a disfrutar!
 
 ## Estado Actual del Proyecto: 
 Configuracion inicial y estructura del proyecto.
