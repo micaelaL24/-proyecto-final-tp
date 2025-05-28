@@ -21,7 +21,7 @@ Este proyecto se basa en el famoso juego "Fireboy y Watergirl" pero una version 
 Como primer paso veremos como clonar el repositorio con Git:
 
 Es muy sencillo. Debes inicializar Git y clonar el repositorio con este comando:
-git clone [URL_DE_SU_REPOSITORIO_GIT](https://github.com/micaelaL24/-proyecto-final-tp) cd -proyecto-final-tp
+git clone [URL_DEL_REPOSITORIO](https://github.com/micaelaL24/-proyecto-final-tp) cd -proyecto-final-tp
 
 Este proyecto utiliza Gradle y fue generado con Liftoff (LibGDX). A continuación, se detallan los pasos para importar, compilar y ejecutar el proyecto en tu IDE favorito.
 
