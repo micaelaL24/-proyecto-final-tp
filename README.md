@@ -1,18 +1,28 @@
 # Eclipse
 
 ## Integrantes del grupo: 
-Micaela Lo Nano, Martin Mendez y Julieta Miranda.
+- Micaela Lo Nano
+- Martin Mendez
+- Julieta Miranda
 
 ## Descripcion: 
 Este proyecto se basa en el famoso juego "Fireboy y Watergirl" pero una version propia y modificada. El juego se llamara "Eclipse" y sus personajes principales "Sol" y "Luna" se encuentran en el desafio de volver al espacio. 
 
-## Tecnologias utilizadas: 
+## Tecnologias utilizadas
 - LibGDX
 - Java
 - IntelliJ IDEA (como entorno de desarrollo)
 
+### Plataformas objetivo
+- Windows
+
 ## Cómo Compilar y Ejecutar: 
-Compilar y Ejecutar el Proyecto
+### Compilar y Ejecutar el Proyecto
+Como primer paso veremos como clonar el repositorio con Git:
+
+Es muy sencillo. Debes inicializar Git y clonar el repositorio con este comando:
+git clone [URL_DE_SU_REPOSITORIO_GIT](https://github.com/micaelaL24/-proyecto-final-tp) cd -proyecto-final-tp
+
 Este proyecto utiliza Gradle y fue generado con Liftoff (LibGDX). A continuación, se detallan los pasos para importar, compilar y ejecutar el proyecto en tu IDE favorito.
 
 ### Requisitos Previos
@@ -59,7 +69,7 @@ Ejecuta la clase como una Java Application (Run As > Java Application o botón d
 Si todo está correctamente configurado, deberías ver la pantalla del juego y listo, a disfrutar!
 
 ## Estado Actual del Proyecto: 
-Configuracion inicial y estructura del proyecto.
+Configuración inicial y estructura del proyecto.
 
 **Enlace a la Wiki del Proyecto (Propuesta Detallada):**
 [Ver la Propuesta Completa del Proyecto
