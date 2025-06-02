@@ -5,8 +5,8 @@
 - Martin Mendez
 - Julieta Miranda
 
-## Descripcion: 
-Este proyecto se basa en el famoso juego "Fireboy y Watergirl" pero una version propia y modificada. El juego se llamara "Eclipse" y sus personajes principales "Sol" y "Luna" se encuentran en el desafio de volver al espacio. 
+## Descripción: 
+Este proyecto se basa en el famoso juego "Fireboy y Watergirl", pero en una versión propia y modificada. El juego se llamará "Eclipse" y sus personajes principales, "Sol" y "Luna", se encuentran en el desafío de volver al espacio.
 
 ## Tecnologias utilizadas
 - LibGDX
@@ -18,7 +18,7 @@ Este proyecto se basa en el famoso juego "Fireboy y Watergirl" pero una version 
 
 ## Cómo Compilar y Ejecutar: 
 ### Compilar y Ejecutar el Proyecto
-Como primer paso veremos como clonar el repositorio con Git:
+Como primer paso, veremos cómo clonar el repositorio con Git:
 
 Es muy sencillo. Debes inicializar Git y clonar el repositorio con este comando:
 git clone [URL_DEL_REPOSITORIO](https://github.com/micaelaL24/-proyecto-final-tp) cd -proyecto-final-tp
@@ -38,7 +38,6 @@ Un IDE como IntelliJ IDEA, Android Studio o Eclipse
 Abre el IDE.
 
 Ve a File > Open... (o desde la pantalla de bienvenida elige Open).
-
 Navega hasta la carpeta del proyecto generada por Liftoff.
 
 Selecciona el archivo build.gradle (o la carpeta raíz del proyecto).
