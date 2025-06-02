@@ -1,7 +1,7 @@
 # Eclipse
 
 ## Integrantes del grupo: 
-- Micaela Lo Nano
+- Micaela Lo Nano 
 - Martin Mendez
 - Julieta Miranda
 
