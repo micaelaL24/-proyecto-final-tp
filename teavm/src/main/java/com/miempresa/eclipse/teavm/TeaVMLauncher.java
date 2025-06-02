@@ -3,7 +3,7 @@ package com.miempresa.eclipse.teavm;
 import com.github.xpenatan.gdx.backends.teavm.TeaApplicationConfiguration;
 import com.github.xpenatan.gdx.backends.teavm.TeaApplication;
 import com.miempresa.eclipse.MiJuegoPrincipal;
-
+ 
 /**
  * Launches the TeaVM/HTML application.
  */
