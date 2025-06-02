@@ -6,5 +6,5 @@
 - Creación inicial del proyecto "Eclipse" con LibGDX Liftoff.
 - Configuración del repositorio en GitHub.
 - Creación de README.md y CHANGELOG.md iniciales.
-- Wiki del proyecto configurada con la propuesta.
+- Wiki del proyecto configurada con la propuesta. 
   
