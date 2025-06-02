@@ -1,7 +1,7 @@
 
 project(":lwjgl3") {
   apply plugin: "org.graalvm.buildtools.native"
-
+ 
   graalvmNative {
     binaries {
       main {
