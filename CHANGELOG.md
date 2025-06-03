@@ -1,6 +1,8 @@
-## [Unreleased]
 # Changelog 
 Este archivo sigue el formato de keep a Changelog y documenta los cambios del proyecto
+
+## [Unreleased]
+### Added
 
 ## [0.1.0] - 2025-05-25
  
