@@ -70,7 +70,7 @@ Si todo está correctamente configurado, deberías ver la pantalla del juego y l
 
 ## Estado Actual del Proyecto: 
 Actualmente el proyecto consta del menu principal del juego y un primer nivel a modo de ejemplo de lo que es el juego. 
-Al ejecutar el programa la primer pantalla inicializa en el menu
+Al ejecutar el programa la primer pantalla inicializa en el menu, donde estaran los niveles, para luego empezar a jugar.
 
 **Enlace a la Wiki del Proyecto (Propuesta Detallada):**
 [Ver la Propuesta Completa del Proyecto
