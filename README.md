@@ -69,7 +69,8 @@ Ejecuta la clase como una Java Application (Run As > Java Application o botón d
 Si todo está correctamente configurado, deberías ver la pantalla del juego y listo, a disfrutar!
 
 ## Estado Actual del Proyecto: 
-Configuración inicial y estructura del proyecto.
+Actualmente el proyecto consta del menu principal del juego y un primer nivel a modo de ejemplo de lo que es el juego. 
+Al ejecutar el programa la primer pantalla inicializa en el menu
 
 **Enlace a la Wiki del Proyecto (Propuesta Detallada):**
 [Ver la Propuesta Completa del Proyecto
