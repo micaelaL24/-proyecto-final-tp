@@ -10,7 +10,7 @@ corriendo 1.png
 corriendo2.png
 dueto_video_face.mp3
 fondos/fondo.jpg
-fondos/fondoDerrota.png
+fondos/fondoDerrota.png 
 fondos/fondoEclipse.png
 fondos/fondoSelecNivel.png
 fondos/fondoVictoria.png
