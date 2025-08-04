@@ -1,7 +1,7 @@
 botones/boton1.jpg
 botones/botonInstruc.png
 botones/botonInstrucPresionado.png
-botones/botonJugar.png
+botones/botonJugar.png 
 botones/botonJugarPresionado.png
 botones/botonNivel.png
 botones/botonNivelPresionado.png
