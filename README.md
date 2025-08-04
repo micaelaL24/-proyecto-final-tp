@@ -74,7 +74,7 @@ Al ejecutar el programa la primer pantalla inicializa en el menu, donde estaran 
 
 ## Video prototipo
 **Ver el funcionamiento del juego en un video a modo de ejemplo aquí:**
-[Enlace del video](https://drive.google.com/file/d/1aiKTGC7_XVkkBLovKn8NppsTaAOBXbBC/view?usp=drive_link)
+[Enlace del video](https://drive.google.com/file/d/1BFSkXIY5ylK4U30uXk4kodMlg2lMtxvx/view?usp=drive_link)
 
 ## Wiki
 **Ver la Propuesta Completa del Proyecto:** 
