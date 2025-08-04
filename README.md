@@ -73,10 +73,9 @@ Actualmente el proyecto consta del menu principal del juego y un primer nivel a 
 Al ejecutar el programa la primer pantalla inicializa en el menu, donde estaran los niveles, para luego empezar a jugar.
 
 ## Video prototipo
-**Enlace al video**
-[Ver el fduncionamiento del juego en un video a modo de ejemplo aquí]()
+**Ver el funcionamiento del juego en un video a modo de ejemplo aquí**
+[Enlace del video]()
 
-
-**Enlace a la Wiki del Proyecto (Propuesta Detallada):**
-[Ver la Propuesta Completa del Proyecto
-aquí](https://github.com/micaelaL24/-proyecto-final-tp/wiki)
+## Wiki
+**Ver la Propuesta Completa del Proyecto** 
+[Enlace a la Wiki del Proyecto (Propuesta Detallada)](https://github.com/micaelaL24/-proyecto-final-tp/wiki)
