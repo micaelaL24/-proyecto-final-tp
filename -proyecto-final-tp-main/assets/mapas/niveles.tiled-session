@@ -1,0 +1,407 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "nivel9.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "Agua.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Alumno/Downloads/FondoRocoso.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/FondoTierra.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/Lava.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/Nivel7.tmx": {
+            "scale": 0.24739583333333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 957.978947368421,
+                "y": 640.6736842105264
+            }
+        },
+        "C:/Users/Alumno/Downloads/Piedra.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/PiedraMarron.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/Tierra.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/agua.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/aguamarron.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/lava.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/lavamarron.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/puertaLuna.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Alumno/Downloads/puertaSol.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/FondoRocoso.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/Lava.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/Nivel5.tmx": {
+            "scale": 0.03463541666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 952.781954887218,
+                "y": 649.624060150376
+            }
+        },
+        "E:/Piedra.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/agua.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/elementos.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/lava.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/puertaLuna.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/puertaSol.tsx": {
+            "scaleInDock": 1
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/FondoRocoso.tsx": {
+            "scaleInDock": 1
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/Peligro.tsx": {
+            "scaleInDock": 1
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/Piedra.tsx": {
+            "scaleInDock": 1
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/agua.tsx": {
+            "scaleInDock": 1
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/elementos.tsx": {
+            "scaleInDock": 1
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/lava.tsx": {
+            "scaleInDock": 1
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/nivel3.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 952,
+                "y": 648
+            }
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/puertaLuna.tsx": {
+            "scaleInDock": 1
+        },
+        "F:/-proyecto-final-tp-main/assets/mapas/puertaSol.tsx": {
+            "scaleInDock": 1
+        },
+        "FondoCielo.tsx": {
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 1
+        },
+        "FondoEspacioCielo.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "FondoRocoso.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.125
+        },
+        "FondoTierra.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lava.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "Nivel5.tmx": {
+            "expandedObjectLayers": [
+                12,
+                9,
+                11,
+                13,
+                14,
+                10,
+                8
+            ],
+            "scale": 0.33,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 687.8787878787878,
+                "y": 639.3939393939395
+            }
+        },
+        "Nivel7.tmx": {
+            "expandedObjectLayers": [
+                15,
+                13,
+                14
+            ],
+            "scale": 0.33,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 960.6060606060605,
+                "y": 639.3939393939395
+            }
+        },
+        "Nube.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "NubeAgua.tsx": {
+            "scaleInDock": 1
+        },
+        "NubeL.tsx": {
+            "scaleInDock": 1
+        },
+        "NubeLava.tsx": {
+            "scaleInDock": 1
+        },
+        "Peligro.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PeligroNube.tsx": {
+            "scaleInDock": 1
+        },
+        "PeligroTierra.tsx": {
+            "scaleInDock": 1
+        },
+        "Piedra.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "PiedraMarron.tsx": {
+            "scaleInDock": 1
+        },
+        "Tierra.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "agua.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aguamarron.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "elementos.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "fondo.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.5
+        },
+        "lava.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lavamarron.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lavita.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "nivel1.tmx": {
+            "expandedObjectLayers": [
+                18,
+                17,
+                3,
+                7,
+                10,
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 959.5,
+                "y": 1123
+            }
+        },
+        "nivel10.tmx": {
+            "expandedObjectLayers": [
+                7,
+                6,
+                5,
+                4,
+                8
+            ],
+            "scale": 0.33,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 854.5454545454546,
+                "y": 930.3030303030303
+            }
+        },
+        "nivel2.tmx": {
+            "expandedObjectLayers": [
+                9,
+                5,
+                13,
+                10,
+                8
+            ],
+            "scale": 0.75,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 1043.3333333333335,
+                "y": 700
+            }
+        },
+        "nivel3.tmx": {
+            "expandedObjectLayers": [
+                12,
+                6,
+                11,
+                14,
+                10,
+                8
+            ],
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 961,
+                "y": 640
+            }
+        },
+        "nivel4.tmx": {
+            "expandedObjectLayers": [
+                18,
+                9,
+                5,
+                8
+            ],
+            "scale": 0.33,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 804.5454545454545,
+                "y": 1148.4848484848485
+            }
+        },
+        "nivel6.tmx": {
+            "expandedObjectLayers": [
+                14,
+                8
+            ],
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 960.6060606060605,
+                "y": 639.3939393939395
+            }
+        },
+        "nivel8.tmx": {
+            "expandedObjectLayers": [
+                17,
+                7,
+                8
+            ],
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 960.6060606060605,
+                "y": 639.3939393939395
+            }
+        },
+        "nivel9.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 959.0909090909092,
+                "y": 557.5757575757575
+            }
+        },
+        "nube.tsx": {
+            "scaleInDock": 1
+        },
+        "paredCueva.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "puertaLuna.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "puertaSol.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "D:/-proyecto-final-tp-main/assets/mapas",
+    "last.imagePath": "D:/-proyecto-final-tp-main/assets/mapas",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+        "nivel1.tmx",
+        "nivel2.tmx",
+        "nivel3.tmx",
+        "Nivel5.tmx",
+        "nivel6.tmx",
+        "nivel10.tmx",
+        "Nube.tsx",
+        "nivel8.tmx",
+        "nivel9.tmx",
+        "Nivel7.tmx",
+        "nivel4.tmx",
+        "FondoCielo.tsx"
+    ],
+    "project": "niveles.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "nivel1.tmx",
+        "nivel2.tmx",
+        "nivel3.tmx",
+        "Nivel5.tmx",
+        "nivel6.tmx",
+        "nivel10.tmx",
+        "Nube.tsx",
+        "nivel8.tmx",
+        "FondoCielo.tsx",
+        "nivel4.tmx",
+        "Nivel7.tmx",
+        "nivel9.tmx"
+    ],
+    "tileset.lastUsedFilter": "Archivos de conjuntos de patrones Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
